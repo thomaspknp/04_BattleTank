@@ -4,5 +4,5 @@ An open-world head-to-head with simple AI, Terrain and advanced control system i
 [example link](google.com)
 ## 2nd level title
 ---
-*list
-*list2
+* list
+* list2
